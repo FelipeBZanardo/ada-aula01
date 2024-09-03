@@ -1,2 +1,2 @@
-# ada-aula01
-Aula 01 - GitHub
+# Apresentação
+Sou Felipe Zanardo, estudante de Engenharia de Dados. Hoje estou aprendendo GitHub.
